@@ -1,5 +1,5 @@
 # Cursor de Typescript
-Esse projeto tem como objetivo estudo a tecnologia Typescript
+Esse repositório tem o código referente ao curso de Typescript
 
 # Nele vimos deste os conceitos básicos até os mais complexos fundamentos.
 
